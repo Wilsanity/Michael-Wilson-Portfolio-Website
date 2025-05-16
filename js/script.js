@@ -26,7 +26,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Project Manager.", "Game Producer.", "Student."],
+		strings: ["Project Manager.", "Game Producer.", "Recent Graduate."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
